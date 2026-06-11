@@ -16,6 +16,11 @@ A simple calculator project built using HTML, CSS and JavaScript for frontend in
 * CSS
 * JavaScript
 
+## Live Demo
+
+https://udith-image-gallery.netlify.app/
+
+
 
 <img width="545" height="731" alt="Screenshot 2026-05-25 164002" src="https://github.com/user-attachments/assets/9932f70a-6fee-4c3e-8bb9-79a43acbddf2" />
 
